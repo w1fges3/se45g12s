@@ -345,7 +345,7 @@ ul li {
 -------------------------------------------------------------------------------*/
 
 .banner {
-	background: linear-gradient(to top, rgb(0 0 0 / 71%), rgb(0 0 0 / 54%)), url(https://i.imgur.com/6tR5An0.jpg) bottom /cover no-repeat;
+	background: linear-gradient(to top, rgb(0 0 0 / 71%), rgb(0 0 0 / 54%)), url(../images/6tR5An0.jpg) bottom /cover no-repeat;
 	min-height: 89vh;
 }
 
