@@ -206,7 +206,7 @@ ul li {
 
 .nav-toggle:before,
 .nav-toggle:after {
-	border-radius: 50%;
+	border-radius: 6px;
 	content: "";
 	height: 100%;
 	left: 0;
@@ -227,7 +227,7 @@ ul li {
 }
 
 .nav-toggle:before {
-	background-color: #e84545;
+	background-color: #111;
 	-moz-transform: scale(1);
 	-ms-transform: scale(1);
 	-webkit-transform: scale(1);
